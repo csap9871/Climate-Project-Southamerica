@@ -36,35 +36,21 @@ Final report submission deadline: 24.01.2017
 
 5. Formal requirements  
 To pass the exam, the following minimum requirements must be fulfilled:
-- final report (a jupyter notebook) submitted in time
-- each group member must contribute to the report and presentation, the personal
-contributions should be stated in the introduction of the final report
-- the notebook should be self-contained and must be structured around well defined sections
-/ analyses / plots / descriptions
-- scientific rigor: the plots must be as understandable as possible (title, units, x and y axis
-labels, appropriate colors and levels...). The text must be clear. Findings or assumptions must
-be supported by appropriate references if they are not derived from the figures.
-- literature: at least three publications must be cited in the report
-- reproducible science: I must be able to run the code and understand it (i.e. if you use new
-data or new python packages you must submit it together with your report)
+ - final report (a jupyter notebook) submitted in time
+ - each group member must contribute to the report and presentation, the personal contributions should be stated in the introduction of the final report
+ - the notebook should be self-contained and must be structured around well defined sections / analyses / plots / descriptions
+ - scientific rigor: the plots must be as understandable as possible (title, units, x and y axis labels, appropriate colors and levels...). The text must be clear. Findings or assumptions must be supported by appropriate references if they are not derived from the figures.
+ - literature: at least three publications must be cited in the report
+ - reproducible science: I must be able to run the code and understand it (i.e. if you use new data or new python packages you must submit it together with your report)
 
 6. Scientific requirements  
 At minimum, the following analyses must be presented:
-- Description of the basic features of climate: temperature, precipitation and surface wind.
-Averages, seasonality, description of the regional patterns and description of sub-regions
-according to their climate
-- Description of the atmospheric drivers of the regional climate: at least one circulation plot
-in the lower, mid- and upper troposphere and one atmospheric cross-section.
-- Variability: standard deviation and coefficient of variation of temperature and
-precipitation. At least one time series of regionally averaged temperature and precipitation.
-Name and discuss the drivers of regional variability according to the literature (e.g. ENSO,
-NAO, SOI...).
+ - Description of the basic features of climate: temperature, precipitation and surface wind. Averages, seasonality, description of the regional patterns and description of sub-regions according to their climate
+ - Description of the atmospheric drivers of the regional climate: at least one circulation plot in the lower, mid- and upper troposphere and one atmospheric cross-section.
+ - Variability: standard deviation and coefficient of variation of temperature and precipitation. At least one time series of regionally averaged temperature and precipitation. Name and discuss the drivers of regional variability according to the literature (e.g. ENSO, NAO, SOI...).
+ 
 Other possible analyses based on your personal interest or motivation:
-- climate anomalies: pick up as specific period (e.g. El Niño 1998, negative NAO winter
-2010...) and describe the climate anomalies for that period
-- atmospheric circulation anomalies (advanced): same as above but for the atmospheric
-circulation (this requires more data – available on demand)
-- choose a sub-region (e.g. Sahel Zone in Africa, Altiplano in South America, Peninsula in
-Antarctica) or a specific location and describe its climate in more detail
-- drivers of variability (advanced): correlation analyses with climate indexes (ENSO, NAO,
-SOI)
+ - climate anomalies: pick up as specific period (e.g. El Niño 1998, negative NAO winter 2010...) and describe the climate anomalies for that period
+ - atmospheric circulation anomalies (advanced): same as above but for the atmospheric circulation (this requires more data – available on demand)
+ - choose a sub-region (e.g. Sahel Zone in Africa, Altiplano in South America, Peninsula in Antarctica) or a specific location and describe its climate in more detail
+ - drivers of variability (advanced): correlation analyses with climate indexes (ENSO, NAO, SOI)
