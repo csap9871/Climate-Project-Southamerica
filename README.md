@@ -2,21 +2,21 @@
 
 Physics of the climate system – WS 2016/2017
 
-Final Projects \\
+Final Projects  
 40% of the final grade
 
-1. Objectives\\
+1. Objectives  
 Write a report and give a short presentation about the climate of a given region/continent. In
 groups of three, you will use a global reanalysis dataset to describe the spatio-temporal
 features of the regional climate. You will discuss your results in relation to selected literature
 and present them in condensed form to the rest of the class.
 
-2. Informal objectives\\
+2. Informal objectives  
 Learn about the methods and tools used in climate research. Getting familiar with the
 specificities of the climate in several regions of the world. Do your own exploratory research
 in order to gain insights about the drivers of climate variability at regional and local scales.
 
-3. Regions\\
+3. Regions  
 Africa
 Antarctica & Southern Ocean
 Australia & Indonesia & New Zealand
@@ -24,7 +24,7 @@ South-America
 North-America
 South-Asia + neighbors
 
-4. Organisation\\
+4. Organisation  
 Four groups of three students, two groups of two (one group per region)
 Please give me your preferences before Monday 05.12.2016 evening (see google-sheet and
 e-mail)
@@ -34,7 +34,7 @@ discussion
 Final report submission deadline: 24.01.2017
 
 
-5. Formal requirements\\
+5. Formal requirements  
 To pass the exam, the following minimum requirements must be fulfilled:
 - final report (a jupyter notebook) submitted in time
 - each group member must contribute to the report and presentation, the personal
@@ -48,7 +48,7 @@ be supported by appropriate references if they are not derived from the figures.
 - reproducible science: I must be able to run the code and understand it (i.e. if you use new
 data or new python packages you must submit it together with your report)
 
-6. Scientific requirements\\
+6. Scientific requirements  
 At minimum, the following analyses must be presented:
 - Description of the basic features of climate: temperature, precipitation and surface wind.
 Averages, seasonality, description of the regional patterns and description of sub-regions
